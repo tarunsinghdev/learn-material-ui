@@ -1,5 +1,3 @@
-# Event Easy
+# Learn Material UI
 
-**Simplifying the events.**
-
-## Create 👨‍💻 | Join ➕️ | Discover 🔍 | Connect 🚀
+**Following the project based learning approach here I use Material UI to give the styling to my project.**
